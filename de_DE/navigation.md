@@ -48,13 +48,14 @@
   * [BME280](pages/bme280.md)
   - - - -
   * # Licht, Farbsensoren
-  * 
   - - - -
   * # Distanz Sensoren
   * [HC-SR04 Ultraschallsensor](pages/hcsr04.md)
   - - - -
   * # Motor Treiber
   * [L298 Dual Motor Treiber](pages/l298.md)
+  - - - -
+  * # Beschleunigungs Sensoren
 
 <!--
   -- Let the user choose a theme
