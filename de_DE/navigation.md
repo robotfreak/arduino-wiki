@@ -20,7 +20,7 @@
 
 [About](pages/about.md)
 
-
+<!--
 [Boards]()
 
   * # Arduino 8 Bit Boards
