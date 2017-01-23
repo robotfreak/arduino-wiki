@@ -20,7 +20,7 @@
 
 [About](pages/about.md)
 
-<!--
+
 [Boards]()
 
   * # Arduino 8 Bit Boards
@@ -62,6 +62,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
+
 [gimmick:themechooser](Choose theme)
--->
+

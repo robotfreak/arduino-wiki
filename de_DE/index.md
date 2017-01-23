@@ -1,8 +1,8 @@
 # Arduino Wiki
 
-## Einführung
+## EinfÃ¼hrung
 
-Eine Einführung in die Elektronik und die Programmierung mit Arduino.
+Eine EinfÃ¼hrung in die Elektronik und die Programmierung mit Arduino.
 
 ## Boards
 
