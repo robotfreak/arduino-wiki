@@ -2,6 +2,11 @@
 
 Der Arduino Uno ist quasi das Standard Board aus der Arduino Familie. 
 
+[![TopView](arduino-wiki/de_DE/pages/Images/ArduinoUno_TopView.jpg)]
+
+[![SideView](arduino-wiki/de_DE/pages/Images/ArduinoUno_SideView.jpg)]
+
+
 ## Hardware
 
 * Prozessor: 8-Bit RISC ATmega328P mit 32kB Flash (2kB Bootloader), 2kB RAM, 1kB EEPROM
@@ -17,7 +22,7 @@ Der Arduino Uno ist quasi das Standard Board aus der Arduino Familie.
 
 ### Pinbelegung
 
-[Pinout](./Images/Atmega168PinMap2.jpg) Source: Arduino.cc
+[![Pinout](arduino-wiki/de_DE/pages/Images/Atmega168PinMap2.jpg)] Source: Arduino.cc
 
 ### Ein- und Ausgänge
 
