@@ -21,7 +21,8 @@ Der Arduino Uno ist quasi das Standard Board aus der Arduino Familie.
 
 ### Pinbelegung
 
-[![Pinout](arduino-wiki/de_DE/pages/Images/Atmega168PinMap2.jpg)] Source: Arduino.cc
+[![Pinout](../images/Atmega168PinMap2.png) 
+Source: Arduino.cc
 
 ### Ein- und Ausgänge
 

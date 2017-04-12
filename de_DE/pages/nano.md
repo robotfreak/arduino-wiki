@@ -22,7 +22,8 @@ Der Arduino Nano ist ein Board im 30-poligen DIL Format. Nesonders geeignet für
 
 ### Pinbelegung
 
-![Pinout](../images/Atmega168PinMap2.jpg) Source: Arduino.cc
+![Pinout](../images/Atmega168PinMap2.png) 
+Source: Arduino.cc
 
 ### Ein- und Ausgänge
 

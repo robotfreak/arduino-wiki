@@ -24,7 +24,8 @@ Wie bei proktisch allen Arduino Boards verfügt der Arduino Micro über einen AT
 
 ### Pinbelegung
 
-![Pinout]../images/ArduinoMicro_Pinout3.png) Source: Arduino.cc
+![Pinout]../images/ArduinoMicro_Pinout3.png) 
+Source: Arduino.cc
 
 ### Ein- und Ausgänge
 
