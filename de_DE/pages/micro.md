@@ -7,7 +7,7 @@ Der Arduino Micro ist ein Board im 34-poligen DIL Format. Nesonders geeignet fü
 
 ## Hardware
 
-Wie bei proktisch allen Arduino Boards verfügt der Arduino Micro über einen ATmega Prozessor von Atmel. 
+Wie bei praktisch allen Arduino Boards verfügt der Arduino Micro über einen ATmega Prozessor von Atmel. 
 
 ### Eckdaten 
 
@@ -34,16 +34,16 @@ Source: Arduino.cc
 * Pulsweitenmodulation PWM: Pin 3,5,6,9,10,11 ,13. 8-Bit PWM 
 * Serial Peripheral Interface (SPI): Auf dem ISP Header, Pin MOSI, MISO, SCK
 * I2C (TWI): Pin 2 (SDA), 3 (SCL)
-* Analoge Eingänge: A0-A5, A6-A11 auf den Digital Pins 4,6,8,9,10,12
+* Analoge Eingänge: A0-A5, A6-A11 alternativ mit den Digital Pins 4,6,8,9,10,12
 * AREF: Referenzspannung für analoge Eingänge
-* Reset: LOW Signal zum Rest des Mikrocontrollers
+* Reset: LOW Signal zum Neustarten des Mikrocontrollers
 
 ### Stromversorgung
-* USB:
-* VIN: 
-* 5V: 
-* 3.3V: Ausgangs Versorgungsspannung des On-Board Spannungsreglers. max. 50mA
-* GND: 
+* USB: 5V Versorgungsspannung über USB Port
+* VIN: 6-20V ungeregelte Eingangs Versorgungsspannung
+* 5V: geregelte Ausgangs Versorgungsspannung des On-Board Spannungsreglers
+* 3.3V: geregelte Ausgangs Versorgungsspannung des On-Board Spannungsreglers. max. 50mA
+* GND: Massepegel der Versorgungsspannung 
 
 ## Software
 

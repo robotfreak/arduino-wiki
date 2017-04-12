@@ -14,7 +14,7 @@ Der Arduino Nano ist ein Board im 30-poligen DIL Format. Nesonders geeignet für
 * Eingangsspannung: 7-12V empfohlen, 6-20V Limits
 * Prozessor Takt: 16MHz
 * USB: FT232 beim Original, CH340 Chip beim China Clone, USB Mini Anschluss
-* Ein-/Ausgänge: : 13 digitale IO davon 6xPWM, 8 analoge Eingänge
+* Ein-/Ausgänge: : 14 digitale IO davon 6x PWM, 6 analoge Eingänge (davon 2 alternativ für I2C)
 * max Strom pro I/O: 40mA
 * Serielle Schnittstellen: I2C, SPI, UART
 * Sonstiges: OnBoard LED an Pin13 
@@ -34,8 +34,14 @@ Source: Arduino.cc
 * I2C (TWI): Pin A4 (SDA), A5 (SCL)
 * Analoge Eingänge: A0-A7
 * AREF: Referenzspannung für analoge Eingänge
-* Reset: LOW Signal zum Rest des Mikrocontrollers
+* Reset: LOW Signal zum Neustarten des Mikrocontrollers
 
+### Stromversorgung
+* USB: 5V Versorgungsspannung über USB Port
+* VIN: 6-20V ungeregelte Eingangs Versorgungsspannung
+* 5V: geregelte Ausgangs Versorgungsspannung des On-Board Spannungsreglers
+* 3.3V: geregelte Ausgangs Versorgungsspannung des On-Board Spannungsreglers. max. 50mA
+* GND: Massepegel der Versorgungsspannung 
 
 ## Software
 
