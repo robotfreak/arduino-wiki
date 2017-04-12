@@ -4,10 +4,10 @@ Bei [SPI](http://de.wikipedia.org/wiki/Serial_Peripheral_Interface), Serial-Peri
 
 Für die Verbindung eines Mikrocontroller mit einem SPI-Gerät sind 5 Leitungen erforderlich, MOSI, MISO, SCK, CS und GND. Jeder weitere Slave benötigt eine weitere CS-Leitung, der Rest wird parallel verdrahtet. Auf dem Bus gibt es jeweils nur eine Verbindung zwischen einem Master und einem Slave, es sind keine gleichzeitigen Verbindungen möglich. 
 
-[SPI-Verbindung](../images/spi-verbindung.png)
+![SPI-Verbindung](../images/spi-verbindung.png)
 
 Bei der Datenübertragung über SPI gilt, dass jede Übertragung vom Master gesteuert wird, wohingegen der Slave nur auf Anfragen seitens des Masters reagiert. Zunächst zieht der Master die Chip-Select-Leitung (CS-Leitung) für den gewünschten Slave nach +LOW+. Zusammen mit jedem Takt werden dann die Daten über die MOSI-Leitung an den Slave gesendet. Gleichzeitig sendet der angesprochene Slave seine Daten über die MISO-Leitung zum Master.
 
-[SPI-Signale](../images/spi-signal.png)
+![SPI-Signale](../images/spi-signal.png)
 
 

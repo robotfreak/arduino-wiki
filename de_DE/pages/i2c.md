@@ -8,5 +8,5 @@ Die Datenübertragungsrate beim I2C Bus beträgt 100 kHz oder 400 kHz. Zunächst
 
 Gängige Anwendungsbereiche der I2C-Schnittstelle sind die Anbindung von A/D- und D/A -Wandlern, Sensoren sowie digitalen Port-Erweiterungen. 
 
-![I2C-Signal](images/i2c-signal.png)
+![I2C-Signal](../images/i2c-signal.png)
 
