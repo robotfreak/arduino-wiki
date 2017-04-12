@@ -29,11 +29,11 @@ Source: Arduino.cc
 
 ### Ein- und Ausgänge
 
-* Seriell (UART): Pin 0 (RX), Pin 1 (TX) Serial1, Serial über USB
+* [Seriell (UART)](uart.md): Pin 0 (RX), Pin 1 (TX) Serial1, Serial über USB
 * Externe Interrupts: Pin 2, 3 Interrupt auf steigende, fallende oder beide Flanken
 * Pulsweitenmodulation PWM: Pin 3,5,6,9,10,11 ,13. 8-Bit PWM 
-* Serial Peripheral Interface (SPI): Auf dem ISP Header, Pin MOSI, MISO, SCK
-* I2C (TWI): Pin 2 (SDA), 3 (SCL)
+* [Serial Peripheral Interface (SPI)](spi.md): Auf dem ISP Header, Pin MOSI, MISO, SCK
+* [I2C (TWI)](i2c.md): Pin 2 (SDA), 3 (SCL)
 * Analoge Eingänge: A0-A5, A6-A11 alternativ mit den Digital Pins 4,6,8,9,10,12
 * AREF: Referenzspannung für analoge Eingänge
 * Reset: LOW Signal zum Neustarten des Mikrocontrollers
