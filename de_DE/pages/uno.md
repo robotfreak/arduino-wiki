@@ -2,9 +2,8 @@
 
 Der Arduino Uno ist quasi das Standard Board aus der Arduino Familie. 
 
-![TopView](arduino-wiki/de_DE/pages/Images/ArduinoUno_TopView.jpg)
-
-![SideView](arduino-wiki/de_DE/pages/Images/ArduinoUno_SideView.jpg)
+![TopView](../images/ArduinoUno_TopView.jpg)
+![SideView](../images/ArduinoUno_SideView.jpg)
 
 
 ## Hardware

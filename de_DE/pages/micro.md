@@ -2,8 +2,8 @@
 
 Der Arduino Micro ist ein Board im 34-poligen DIL Format. Nesonders geeignet für Steckbrett- und Lochraster Projekte. Es verfügt über einen ATmega32U4 als Prozessor, über den auch die USB Anbindung erfolgt.
 
-![TopView](arduino-wiki/de_DE/pages/Images/ArduinoMicro_TopView.jpg)
-[![SideView](arduino-wiki/de_DE/pages/Images/ArduinoMicro_SideView.jpg)
+![TopView](../images/ArduinoMicro_TopView.jpg)
+![SideView](../images/ArduinoMicro_SideView.jpg)
 
 ## Hardware
 
@@ -24,7 +24,7 @@ Wie bei proktisch allen Arduino Boards verfügt der Arduino Micro über einen AT
 
 ### Pinbelegung
 
-![Pinout](arduino-wiki/de_DE/pages/Images/ArduinoMicro_Pinout3.png) Source: Arduino.cc
+![Pinout]../images/ArduinoMicro_Pinout3.png) Source: Arduino.cc
 
 ### Ein- und Ausgänge
 

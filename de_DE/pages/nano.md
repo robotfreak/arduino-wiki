@@ -2,9 +2,8 @@
 
 Der Arduino Nano ist ein Board im 30-poligen DIL Format. Nesonders geeignet für Steckbrett- und Lochraster Projekte. Es verfügt über die selbe Hardware Ausstattung wie sein großer Bruder, der Arduino Uno. 
 
-![TopView](arduino-wiki/de_DE/pages/Images/ArduinoNano_TopView.jpg)
-
-![SideView](arduino-wiki/de_DE/pages/Images/ArduinoNano_SideView.jpg)
+![TopView](../images/ArduinoNano_TopView.jpg)
+![SideView](../images/ArduinoNano_SideView.jpg)
 
 ## Hardware
 
@@ -23,7 +22,7 @@ Der Arduino Nano ist ein Board im 30-poligen DIL Format. Nesonders geeignet für
 
 ### Pinbelegung
 
-![Pinout](arduino-wiki/de_DE/pages/Images/Atmega168PinMap2.jpg) Source: Arduino.cc
+![Pinout](../images/Atmega168PinMap2.jpg) Source: Arduino.cc
 
 ### Ein- und Ausgänge
 
